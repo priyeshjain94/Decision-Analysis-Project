@@ -17,5 +17,4 @@
 ![Image of Plot](images/Slide17.PNG)
 ![Image of Plot](images/Slide18.PNG)
 ![Image of Plot](images/Slide19.PNG)
-![Image of Plot](images/Slide20.PNG)
 ![Image of Plot](images/Slide21.PNG)
